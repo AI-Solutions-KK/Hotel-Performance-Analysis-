@@ -41,6 +41,7 @@ Hotel chain experiencing revenue decline across multiple properties in Bangalore
 - Enhance business category offerings
 
 ## 🛠️ Tools Used
+- **Python- Pandas-Matplotlib-Seaborn** - Data Cleaning & Transformation
 - **Power BI** - Dashboard & Visualization
 - **Python/Excel** - Data Cleaning & Transformation
 - **DAX** - Custom metrics and calculations
